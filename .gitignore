@@ -4,3 +4,5 @@ __pycache__/
 .env
 .postman/
 postman/
+instance/
+*.db
